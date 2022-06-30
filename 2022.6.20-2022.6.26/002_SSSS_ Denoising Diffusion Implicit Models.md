@@ -22,7 +22,7 @@ DDPM前向过程虽然基于Markov Chain的, 即 $q(x_{1:T} | x_0) = \prod_{t=1}
 <font color=yellow>为了给DDPM加速采样,那么就要保证训练好的DDPM模型不改变,而只是对采样的过程做加速.</font> 现在考虑一族分布Q,满足如下的条件:  
 1. 条件一
 $$
-  q_{\sigma}(x_{1:T} | x_0) = q_{\sigma} \prod_{t=2}^T q_{\sigma}(x_{t-1} | x_t, x_0)
+  q_{\sigma}(x_{1:T} | x_0) = q_{\sigma}(x_T | x_0) \prod_{t=2}^T q_{\sigma}(x_{t-1} | x_t, x_0)
 $$
 这个条件就是DDPM实际训练时候所用到的分布. 为了与DDPM训练过程完全一致, 还需要有以下两个条件:  
 
