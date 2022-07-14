@@ -9,6 +9,8 @@
 
 * [005_SS_ Palette Image-to-Image Diffusion Models](https://blog.csdn.net/D_Trump/article/details/125577478?spm=1001.2014.3001.5501)
 
+* [006_SS_ Dual Diffusion Implicit Bridges For Image-to-Image Translation](https://blog.csdn.net/D_Trump/article/details/125771926)
+
 ### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
 
