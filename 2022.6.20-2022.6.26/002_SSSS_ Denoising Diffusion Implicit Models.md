@@ -19,6 +19,14 @@ DDIM正是采用了这样的思路. 作者指出DDIM优于DDPM主要有三个方
 
 DDPM前向过程虽然基于Markov Chain的, 即 $q(x_{1:T} | x_0) = \prod_{t=1}^T q(x_t | x_{t-1})$ 但是实际在训练模型的时候, 实际用到的是变形之后的, 也就是 $q(x_{1:T} | x_0) = q(x_T | x_0) \prod_{t=2}^T q(x_{t-1} | x_t, x_0)$ . 那么从这个实际用到的分布出发, 那么除了Markov Chain之外, 还有其它的分布也能表示成这种形式.  
 
+接下来这部分内容来自于DDIM原文, 重要事情说三遍,
+
+<font color=Red>注意DDIM原文中的 $\alpha_t$ 是与DDPM原文中的 $\bar{\alpha}_t$ 是对应的</font>
+
+<font color=Red>注意DDIM原文中的 $\alpha_t$ 是与DDPM原文中的 $\bar{\alpha}_t$ 是对应的</font>
+
+<font color=Red>注意DDIM原文中的 $\alpha_t$ 是与DDPM原文中的 $\bar{\alpha}_t$ 是对应的</font>
+
 <font color=yellow>为了给DDPM加速采样,那么就要保证训练好的DDPM模型不改变,而只是对采样的过程做加速.</font> 现在考虑一族分布Q,满足如下的条件:  
 1. 条件一
 $$
@@ -67,3 +75,7 @@ $$
 此外,作者还对DDIM进行了插值的实验,来验证consistency:
 
 ![img](res/002/8.PNG)
+
+## 补充一部分推导
+
+![img](res/002/9.jpg)

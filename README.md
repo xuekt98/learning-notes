@@ -12,6 +12,8 @@
 
 * [生成模型笔记（六）：生成模型](https://blog.csdn.net/D_Trump/article/details/125784912)
 
+## 最优传输笔记
+
 ## 文章阅读记录
 ### Diffusion Models
 * [001_SSSSS_ Denoising Diffusion Probabilistic Models](https://blog.csdn.net/D_Trump/article/details/125419693?spm=1001.2014.3001.5501)  
@@ -30,3 +32,6 @@
 ### VAE
 
 ### Normalizing Flow
+
+### Other Classical Papers
+* [007_SSSSS_ Neural Ordinary Differential Equtions](https://blog.csdn.net/D_Trump/article/details/125857425)
