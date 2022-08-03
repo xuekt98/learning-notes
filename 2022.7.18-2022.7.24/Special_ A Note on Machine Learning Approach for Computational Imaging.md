@@ -23,12 +23,12 @@
 ## 2. Improving Image Reconstruction with Deep Learning
 一种典型的learning-based image Reconstruction可以表示为:
 
-![img](res/009/1.png)
+![img](res/special/1.png)
 
 基于学习的方法和手动建模的方法之间的主要区别在与两个方面:
 
-![img](res/009/2.png)
+![img](res/special/2.png)
 
-![img](res/009/3.png)
+![img](res/special/3.png)
 
 后边的内容了解的不多, 暂时先这样. 先看看相关领域的内容再回头看这部分.  
