@@ -26,6 +26,8 @@
 
 * [006_SS_ Dual Diffusion Implicit Bridges For Image-to-Image Translation](https://blog.csdn.net/D_Trump/article/details/125771926)
 
+* [008_SSSS_ Improved Denoising Diffusion Probabilistic Models](https://github.com/xuekt98/readed-papers/blob/main/2022.8.1-2022.8.31/008_SSSS_%20Improved%20Denoising%20Diffusion%20Probabilistic%20Models.md)
+
 ### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
 
