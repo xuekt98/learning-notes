@@ -28,6 +28,10 @@
 
 * [008_SSSS_ Improved Denoising Diffusion Probabilistic Models](https://github.com/xuekt98/readed-papers/blob/main/2022.8.1-2022.8.31/008_SSSS_%20Improved%20Denoising%20Diffusion%20Probabilistic%20Models.md)
 
+* [012_SSS_ Improving Diffusion Model Efficiency Through Patching](https://github.com/xuekt98/readed-papers/blob/main/2022.8.1-2022.8.31/012_SSS_%20Improving%20Diffusion%20Model%20Efficiency%20Through%20Patching.md)
+
+* [013_SSS_ Frido Feature Pyramid Diffusion for Complex Scene Image Synthesis](https://github.com/xuekt98/readed-papers/blob/main/2022.9.1-2022.9.15/013_SSS_%20Frido%20Feature%20Pyramid%20Diffusion%20for%20Complex%20Scene%20Image%20Synthesis.md)
+
 ### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
 
