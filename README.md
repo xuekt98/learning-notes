@@ -43,4 +43,4 @@
 
 ### Other Classical Papers
 * [007_SSSSS_ Neural Ordinary Differential Equtions](https://blog.csdn.net/D_Trump/article/details/125857425)
-* [015_SSSSS_ Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization]()
+* [015_SSSSS_ Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://github.com/xuekt98/readed-papers/blob/main/2022.9.1-2022.9.15/015_SSSSS_%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization.md)
