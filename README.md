@@ -32,6 +32,8 @@
 
 * [013_SSS_ Frido Feature Pyramid Diffusion for Complex Scene Image Synthesis](https://github.com/xuekt98/readed-papers/blob/main/2022.9.1-2022.9.15/013_SSS_%20Frido%20Feature%20Pyramid%20Diffusion%20for%20Complex%20Scene%20Image%20Synthesis.md)
 
+* [014_SSS_ High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/xuekt98/readed-papers/blob/main/2022.9.1-2022.9.15/014_SSS_High-Resolution%20Image%20Synthesis%20with%20Latent%20Diffusion%20Models.md)
+
 ### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
 
@@ -41,3 +43,4 @@
 
 ### Other Classical Papers
 * [007_SSSSS_ Neural Ordinary Differential Equtions](https://blog.csdn.net/D_Trump/article/details/125857425)
+* [015_SSSSS_ Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization]()
