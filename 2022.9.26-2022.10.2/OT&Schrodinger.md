@@ -84,6 +84,10 @@ Brenier定理给出了Kantorovich问题有解的条件。
 
 ![img](res/OTSch/19.png)
 
+![img](res/OTSch/27.png)
+
+![img](res/OTSch/28.png)
+
 ## 2.1 动态薛定谔问题（Dynamic Schrodinger Problem）
 
 ![img](res/OTSch/20.png)
