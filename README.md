@@ -12,6 +12,10 @@
 
 * [生成模型笔记（六）：生成模型](https://blog.csdn.net/D_Trump/article/details/125784912)
 
+* [生成模型笔记（七）：自回归模型](https://blog.csdn.net/D_Trump/article/details/127313524?spm=1001.2014.3001.5502)
+
+* [生成模型笔记（八）：Flow-Based Models](https://blog.csdn.net/D_Trump/article/details/127346055?spm=1001.2014.3001.5502)
+
 ## 最优传输笔记
 
 ## 文章阅读记录
@@ -34,6 +38,8 @@
 
 * [014_SSS_ High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/xuekt98/readed-papers/blob/main/2022.9.1-2022.9.15/014_SSS_High-Resolution%20Image%20Synthesis%20with%20Latent%20Diffusion%20Models.md)
 
+* [017_SSS_Semantic Image Synthesis via Diffusion Models](https://blog.csdn.net/D_Trump/article/details/127454587?spm=1001.2014.3001.5502)
+
 ### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
 
@@ -44,7 +50,7 @@
 ### Neural Ordinary Differential Equations
 * [007_SSSSS_ Neural Ordinary Differential Equtions](https://blog.csdn.net/D_Trump/article/details/125857425)
 
-* [016_SSS_ GAN Inversion for Consistent Video Interpolation and Manipulation]()
+* [016_SSS_ GAN Inversion for Consistent Video Interpolation and Manipulation](https://blog.csdn.net/D_Trump/article/details/127394893?spm=1001.2014.3001.5502)
 
 ### Other Classical Papers
 * [015_SSSSS_ Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://github.com/xuekt98/readed-papers/blob/main/2022.9.1-2022.9.15/015_SSSSS_%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization.md)
