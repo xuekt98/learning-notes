@@ -30,13 +30,13 @@
 
 * [006_SS_ Dual Diffusion Implicit Bridges For Image-to-Image Translation](https://blog.csdn.net/D_Trump/article/details/125771926)
 
-* [008_SSSS_ Improved Denoising Diffusion Probabilistic Models](https://github.com/xuekt98/readed-papers/blob/main/2022.8.1-2022.8.31/008_SSSS_%20Improved%20Denoising%20Diffusion%20Probabilistic%20Models.md)
+* [008_SSSS_ Improved Denoising Diffusion Probabilistic Models](https://blog.csdn.net/D_Trump/article/details/126611014?spm=1001.2014.3001.5501)
 
-* [012_SSS_ Improving Diffusion Model Efficiency Through Patching](https://github.com/xuekt98/readed-papers/blob/main/2022.8.1-2022.8.31/012_SSS_%20Improving%20Diffusion%20Model%20Efficiency%20Through%20Patching.md)
+* [012_SSS_ Improving Diffusion Model Efficiency Through Patching](https://blog.csdn.net/D_Trump/article/details/126166844?spm=1001.2014.3001.5501)
 
-* [013_SSS_ Frido Feature Pyramid Diffusion for Complex Scene Image Synthesis](https://github.com/xuekt98/readed-papers/blob/main/2022.9.1-2022.9.15/013_SSS_%20Frido%20Feature%20Pyramid%20Diffusion%20for%20Complex%20Scene%20Image%20Synthesis.md)
+* [013_SSS_ Frido Feature Pyramid Diffusion for Complex Scene Image Synthesis](https://blog.csdn.net/D_Trump/article/details/126702633?spm=1001.2014.3001.5501)
 
-* [014_SSS_ High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/xuekt98/readed-papers/blob/main/2022.9.1-2022.9.15/014_SSS_High-Resolution%20Image%20Synthesis%20with%20Latent%20Diffusion%20Models.md)
+* [014_SSS_ High-Resolution Image Synthesis with Latent Diffusion Models](https://blog.csdn.net/D_Trump/article/details/126837838?spm=1001.2014.3001.5501)
 
 * [017_SSS_Semantic Image Synthesis via Diffusion Models](https://blog.csdn.net/D_Trump/article/details/127454587?spm=1001.2014.3001.5502)
 
@@ -53,4 +53,4 @@
 * [016_SSS_ GAN Inversion for Consistent Video Interpolation and Manipulation](https://blog.csdn.net/D_Trump/article/details/127394893?spm=1001.2014.3001.5502)
 
 ### Other Classical Papers
-* [015_SSSSS_ Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://github.com/xuekt98/readed-papers/blob/main/2022.9.1-2022.9.15/015_SSSSS_%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization.md)
+* [015_SSSSS_ Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://blog.csdn.net/D_Trump/article/details/126868951?spm=1001.2014.3001.5501)
