@@ -40,8 +40,12 @@
 
 * [017_SSS_Semantic Image Synthesis via Diffusion Models](https://blog.csdn.net/D_Trump/article/details/127454587?spm=1001.2014.3001.5502)
 
+* [018_SS_High-Resolution Image Editing via Multi-Stage Blended Diffusion](https://blog.csdn.net/D_Trump/article/details/127583306)
+
 ### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
+
+* [019_SSSS_High-Resolution Image Synthesis and Semantic Manipulation with Conditioanl GANs](https://blog.csdn.net/D_Trump/article/details/127605164)
 
 ### VAE
 
