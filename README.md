@@ -18,6 +18,7 @@
 
 ## 最优传输笔记
 
+
 ## pytorch笔记
 
 
@@ -67,3 +68,10 @@
 
 ### Other Classical Papers
 * [015_SSSSS_ Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://blog.csdn.net/D_Trump/article/details/126868951?spm=1001.2014.3001.5501)
+
+### 3D Papers
+* [022_SSS_Novel View Synthesis with Diffusion Models](https://blog.csdn.net/D_Trump/article/details/127959422?spm=1001.2014.3001.5501)
+
+* [023_SSS_Neural 3D Video Synthesis from Multi-view Video(CVPR2022)](https://blog.csdn.net/D_Trump/article/details/128267834?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22128267834%22%2C%22source%22%3A%22D_Trump%22%7D)
+
+* [024_SSS_Occupancy Flow: 4D Reconstruction by Learning Particle Dynamics(ICCV2019)](https://blog.csdn.net/D_Trump/article/details/128274616?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22128274616%22%2C%22source%22%3A%22D_Trump%22%7D)
