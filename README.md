@@ -23,7 +23,7 @@
 
 
 ## 文章阅读记录
-### Diffusion Models
+#### Diffusion Models
 * [001_SSSSS_ Denoising Diffusion Probabilistic Models](https://blog.csdn.net/D_Trump/article/details/125419693?spm=1001.2014.3001.5501)  
 
 * [002_SSSS_ Denoising Diffusion Implicit Models](https://blog.csdn.net/D_Trump/article/details/125452701?spm=1001.2014.3001.5501)
@@ -48,28 +48,28 @@
 
 * [021_SSSS_Diffusion Models Already Have a Semantic Latent Space](https://blog.csdn.net/D_Trump/article/details/127949076?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22127949076%22%2C%22source%22%3A%22D_Trump%22%7D)
 
-### GAN
+#### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
 
 * [019_SSSS_High-Resolution Image Synthesis and Semantic Manipulation with Conditioanl GANs](https://blog.csdn.net/D_Trump/article/details/127605164)
 
 * [020_SSSS_A Style-Based Generator Architecture for Generative Adversarial Networks(StyleGAN)](https://blog.csdn.net/D_Trump/article/details/127616462)
 
-### VAE
+#### VAE
 
-### Normalizing Flow
+#### Normalizing Flow
 
-### Neural Ordinary Differential Equations
+#### Neural Ordinary Differential Equations
 * [007_SSSSS_ Neural Ordinary Differential Equtions](https://blog.csdn.net/D_Trump/article/details/125857425)
 
 * [016_SSS_ GAN Inversion for Consistent Video Interpolation and Manipulation](https://blog.csdn.net/D_Trump/article/details/127394893?spm=1001.2014.3001.5502)
 
 * [007_补充_ Pytorch 反向传播和Neural ODE的反向传播](https://blog.csdn.net/D_Trump/article/details/127887920?spm=1001.2014.3001.5502)
 
-### Other Classical Papers
+#### Other Classical Papers
 * [015_SSSSS_ Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://blog.csdn.net/D_Trump/article/details/126868951?spm=1001.2014.3001.5501)
 
-### 3D Papers
+#### 3D Papers
 * [022_SSS_Novel View Synthesis with Diffusion Models](https://blog.csdn.net/D_Trump/article/details/127959422?spm=1001.2014.3001.5501)
 
 * [023_SSS_Neural 3D Video Synthesis from Multi-view Video(CVPR2022)](https://blog.csdn.net/D_Trump/article/details/128267834?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22128267834%22%2C%22source%22%3A%22D_Trump%22%7D)
