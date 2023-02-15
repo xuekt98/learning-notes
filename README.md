@@ -48,12 +48,24 @@
 
 * [021_SSSS_Diffusion Models Already Have a Semantic Latent Space](https://blog.csdn.net/D_Trump/article/details/127949076?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22127949076%22%2C%22source%22%3A%22D_Trump%22%7D)
 
+* [027_SSS_Direct Inversion Optimization-Free Text-Driven Real Image Editing with Diffusion Models](https://blog.csdn.net/D_Trump/article/details/128937997?spm=1001.2014.3001.5501)
+
+* [028_SSS_Fine-tuning Diffusion Models with Limited Data](https://blog.csdn.net/D_Trump/article/details/128938260?spm=1001.2014.3001.5501)
+
+* [031_SSS_Imagic Text-Based Real Image Editing with Diffusion Models](https://blog.csdn.net/D_Trump/article/details/129031253?spm=1001.2014.3001.5501)
+
 #### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
 
 * [019_SSSS_High-Resolution Image Synthesis and Semantic Manipulation with Conditioanl GANs](https://blog.csdn.net/D_Trump/article/details/127605164)
 
 * [020_SSSS_A Style-Based Generator Architecture for Generative Adversarial Networks(StyleGAN)](https://blog.csdn.net/D_Trump/article/details/127616462)
+
+#### Transformer
+
+* [029_SSS_MaskGIT Masked Generative Image Transformer（CVPR2022）](https://blog.csdn.net/D_Trump/article/details/128938328?spm=1001.2014.3001.5501)
+
+* [030_SSS_MaskSketch Unpaired Structure-guided Masked Image Generation](https://blog.csdn.net/D_Trump/article/details/128950613?spm=1001.2014.3001.5501)
 
 #### VAE
 
