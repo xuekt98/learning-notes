@@ -54,6 +54,8 @@
 
 * [031_SSS_Imagic Text-Based Real Image Editing with Diffusion Models](https://blog.csdn.net/D_Trump/article/details/129031253?spm=1001.2014.3001.5501)
 
+* [033_SS_Inversion-Based Creativity Transfer with Diffusion Models](https://blog.csdn.net/D_Trump/article/details/129211687?spm=1001.2014.3001.5501)
+
 #### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
 
