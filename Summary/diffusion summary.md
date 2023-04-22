@@ -34,6 +34,16 @@
 ## 2. Application and Generalization Papers
 ### 2.1 2D synthesis and manipulation
 
+#### [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242)
+**<font color=#CC00CC>grade:</font>** <font color=yellow>$\bigstar\bigstar\bigstar\bigstar$</font>  
+**<font color=#CC00CC>source&date:</font>** Arxiv 2023.03.15  
+**<font color=#CC00CC>author:</font>** Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman       
+**<font color=#CC00CC>institution:</font>** Google Research, Boston University   
+**<font color=#CC00CC>applications:</font>** <font color=LimeGreen>Text-to-Image</font>  
+**<font color=#CC00CC>description:</font>** 用特殊字符标识物体。  
+**<font color=#CC00CC>other info:</font>**
+
+
 #### [Anti-DreamBooth: Protecting users from personalized text-to-image synthesis](https://arxiv.org/pdf/2303.15433.pdf)  
 **<font color=#CC00CC>grade:</font>** <font color=yellow>$\bigstar$</font>  
 **<font color=#CC00CC>source&date:</font>** Arxiv 2023.03.27  

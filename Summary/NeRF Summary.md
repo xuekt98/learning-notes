@@ -71,6 +71,18 @@
 **<font color=#CC00CC>other info:</font>**
 
 
+#### [DreamBooth3D: Subject-Driven Text-to-3D Generation](https://arxiv.org/abs/2303.13508)
+**<font color=#CC00CC>grade:</font>** <font color=yellow>$\bigstar\bigstar\bigstar$</font>  
+**<font color=#CC00CC>source&date:</font>** Arxiv 2023.03.27  
+**<font color=#CC00CC>author:</font>** Amit Raj, Srinivas Kaza, Ben Poole, Michael Niemeyer, Nataniel Ruiz, Ben Mildenhall, Shiran Zada, Kfir Aberman, Michael Rubinstein, Jonathan Barron, Yuanzhen Li, Varun Jampani       
+**<font color=#CC00CC>institution:</font>** Google  
+**<font color=#CC00CC>applications:</font>** <font color=LimeGreen>Subject-Driven Text-to-3D</font>  
+**<font color=#CC00CC>description:</font>** 微调DreamBooth和DreamFusion  
+**<font color=#CC00CC>other info:</font>**
+
+
+
+
 
 
 
