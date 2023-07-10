@@ -56,6 +56,16 @@
 
 * [033_SS_Inversion-Based Creativity Transfer with Diffusion Models](https://blog.csdn.net/D_Trump/article/details/129211687?spm=1001.2014.3001.5501)
 
+* [035_SS_Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models](https://blog.csdn.net/D_Trump/article/details/131158680?spm=1001.2014.3001.5501)
+
+ * [036_SS_Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models](https://blog.csdn.net/D_Trump/article/details/131158730?spm=1001.2014.3001.5501)
+
+ * [037_SS_SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions](https://blog.csdn.net/D_Trump/article/details/131158747?spm=1001.2014.3001.5501)
+
+ * [038_SSS_Multi-Architecture Multi-Expert Diffusion Models](https://blog.csdn.net/D_Trump/article/details/131158764?spm=1001.2014.3001.5501)
+
+ * [039_SSS_ArtFusion: Controllable Arbitrary Style Transfer using Dual Conditional LDM](https://blog.csdn.net/D_Trump/article/details/131371000?spm=1001.2014.3001.5501)
+
 #### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
 
