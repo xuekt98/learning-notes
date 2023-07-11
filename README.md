@@ -66,6 +66,16 @@
 
  * [039_SSS_ArtFusion: Controllable Arbitrary Style Transfer using Dual Conditional LDM](https://blog.csdn.net/D_Trump/article/details/131371000?spm=1001.2014.3001.5501)
 
+ * [040 DifFSS: Diffusion Model for Few-Shot Semantic Segmentation](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/%E7%95%A5%E8%AF%BB%E6%96%87%E7%AB%A0.md)
+
+ * [041 LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/%E7%95%A5%E8%AF%BB%E6%96%87%E7%AB%A0.md)
+
+ * [042 An Edit Friendly DDPM Noise Space: Inversion and Manipulations](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/%E7%95%A5%E8%AF%BB%E6%96%87%E7%AB%A0.md)
+
+ * [043 MissDiff: Training Diffusion Models on Tabular Data with Missing Values](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/%E7%95%A5%E8%AF%BB%E6%96%87%E7%AB%A0.md)
+
+ * [044_SSS_Counting Guidance for High Fidelity Text-to-Image Synthesis](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/044_SSS_Counting%20Guidance%20for%20High%20Fidelity%20Text-to-Image%20Synthesis.md)
+
 #### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
 
