@@ -77,7 +77,7 @@
 #### Diffusion Schrodinger Bridge
 
 
-## 3D
+# NeRF
 
 
 
