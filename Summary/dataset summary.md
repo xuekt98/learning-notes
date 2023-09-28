@@ -28,3 +28,11 @@
 **<font color=#CC00CC>datset link:</font>** https://github.com/nightrome/cocostuff/tree/master
 
 **<font color=#CC00CC>applications:</font>** semantic segmentation, semantic synthesis
+
+### 1.2.3 LSUN
+**<font color=#CC00CC>paper link:</font>** [LSUN: Construction of a Large-scale Image Dataset
+using Deep Learning with Humans in the Loop](https://arxiv.org/pdf/1506.03365v3.pdf)
+
+**<font color=#CC00CC>datset link:</font>** https://github.com/fyu/lsun
+
+**<font color=#CC00CC>applications:</font>** image synthesis
