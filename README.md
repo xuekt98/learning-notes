@@ -76,6 +76,14 @@
 
  * [044_SSS_Counting Guidance for High Fidelity Text-to-Image Synthesis](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/044_SSS_Counting%20Guidance%20for%20High%20Fidelity%20Text-to-Image%20Synthesis.md)
 
+ * [048_SSS_Decoupled Diffusion Models with Explicit Transition Probability](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/048_SSS_Decoupled%20Diffusion%20Models%20with%20Explicit%20Transition%20Probability.md)
+
+ * [049_SSS_Continuous Layout Editing of Single Images with Diffusion Models](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/049_SSS_Continuous%20Layout%20Editing%20of%20Single%20Images%20with%20Diffusion%20Models.md)
+
+* [050 Semi-Implicit Denoising Diffusion Models](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/%E7%95%A5%E8%AF%BB%E5%92%8C%E9%80%9F%E8%AE%B0%E6%96%87%E7%AB%A0.md)
+
+* [051_SSS_SpaText Spatio-Textual Representation for Controllable Image Generation](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/051_SSS_SpaText%20Spatio-Textual%20Representation%20for%20Controllable%20Image%20Generation.md)
+
 #### GAN
 * [004_SSSS_ Image-to-Image Translation with Conditional Adversarial Networks](https://blog.csdn.net/D_Trump/article/details/125570667?spm=1001.2014.3001.5501)
 
@@ -113,3 +121,17 @@
 * [025_SSS_BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction](https://blog.csdn.net/D_Trump/article/details/128287419?spm=1001.2014.3001.5502)
 
 * [026_SS_MoFusion A Framework for Denoising-Diffusion-based Motion Synthesis](https://blog.csdn.net/D_Trump/article/details/128478581?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22128478581%22%2C%22source%22%3A%22D_Trump%22%7D)
+
+* [045_SS_FDNeRF Semantics-Driven Face Reconstruction Prompt Editing and Relighting with Diffusion Models](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/045_SS_FDNeRF%20Semantics-Driven%20Face%20Reconstruction%20Prompt%20Editing%20and%20Relighting%20with%20Diffusion%20Models.md)
+
+* [046_S_Edit-DiffNeRF Editing 3D Neural Radiance Fields using 2D Diffusion Model](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/046_S_Edit-DiffNeRF%20Editing%203D%20Neural%20Radiance%20Fields%20using%202D%20Diffusion%20Model.md)
+
+* [047_SSS_Local 3D Editing via 3D Distillation of CLIP Knowledge](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.07/047_SSS_Local%203D%20Editing%20via%203D%20Distillation%20of%20CLIP%20Knowledge.md)
+
+#### Implicit Neural Representation
+
+* [052_SSSS_Image Generators with Conditionally-Independent Pixel Synthesis](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.08/052_SSSS_Image%20Generators%20with%20Conditionally-Independent%20Pixel%20Synthesis.md)
+
+* [053_SSSS_Implicit Neural Representations with Periodic Activation Functions](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.09/053_SSSS_Implicit%20Neural%20Representations%20with%20Periodic%20Activation%20Functions.md)
+
+* [054_SSSS_Learning Implicit Fields for Generative Shape Modeling](https://github.com/xuekt98/readed-papers/blob/main/2023/2023.10/054_SSSS_Learning%20Implicit%20Fields%20for%20Generative%20Shape%20Modeling.md)
