@@ -1,5 +1,8 @@
+http://www.scholarpedia.org/article/State_space_model  
+https://huggingface.co/blog/lbourdois/get-on-the-ssm-train
+
 ## Theoretical Basis
-http://www.scholarpedia.org/article/State_space_model
+  
 
 
 ### 1. Formalism and theory
