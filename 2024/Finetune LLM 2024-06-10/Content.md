@@ -77,6 +77,35 @@
 <font color=orange>**Label:**</font> text-to-image; latent diffusion model; conditional generation; layout-to-image   
 <font color=orange>**Abastract:**</font>a new text2img generation method that endows new grounding controllability over existing text2img diffusion models by preserving the pre-trained weights and learning to gradually integrate the new localization layers.  
 
+* [<font size=3>**Modulating Pretrained Diffusion Models for Multimodal Image Synthesis**</font>](09.18-09.25/020-.md)  
+<font color=orange>**Origin:**</font> SIGGRAPH2023; Georgia Institute of Technology, USA **[[no Code](nocode)]**  
+<font color=orange>**Authors:**</font>CUSUH HAM; JAMES HAYS; JINGWAN LU; etc.    
+<font color=orange>**Label:**</font> text-to-image; sketch-to-image; conditional generation; layout-to-image   
+<font color=orange>**Abastract:**</font> 额外训练小模块对于多模态的layout和sketch信息进行输入, 输出 $\gamma$ 和 $v$ 从而对预测的噪声进行修正.  
+
+* [<font size=3>**Freestyle Layout-to-Image Synthesis**</font>]()  
+<font color=orange>**Origin:**</font> CVPR2023; Shanghai Jiao Tong University **[[no Code](nocode)]**  
+<font color=orange>**Authors:**</font>Han Xue; Zhiwu Huang; Qianru Sun; etc.    
+<font color=orange>**Label:**</font> text-to-image; conditional generation; layout-to-image   
+<font color=orange>**Abastract:**</font> 利用layout mask对Attention区域进行修正, 区域内为1, 区域外为-inf.  
+
+* [<font size=3>**SpaText: Spatio-Textual Representation for Controllable Image Generation**</font>]()  
+<font color=orange>**Origin:**</font> CVPR2023; Meta AI **[[Project Code](https://omriavrahami.com/spatext)]**  
+<font color=orange>**Authors:**</font>Omri Avrahami; Thomas Hayes; Oran Gafni; etc.    
+<font color=orange>**Label:**</font> text-to-image; conditional generation; layout-to-image   
+<font color=orange>**Abastract:**</font> 将CLIP编码后的图像特征构建成图像作为额外的条件输入.  
+
+* [<font size=3>**InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models**</font>]()  
+<font color=orange>**Origin:**</font> CVPR2024; Nanyang Technological University **[[Project Code](https://jiuntian.github.io/interactdiffusion)]**  
+<font color=orange>**Authors:**</font>Jiun Tian Hoe; Xudong Jiang; Yap-Peng Tan; etc.    
+<font color=orange>**Label:**</font> text-to-image; conditional generation; layout-to-image   
+<font color=orange>**Abastract:**</font> 加入了Interaction Attention来额外加入<subject, action, object>条件信息. 需要训练    
+
+* [<font size=3>**LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**</font>]()  
+<font color=orange>**Origin:**</font> CVPR2023; Zhejiang University **[[Project Code](https://github.com/ZGCTroy/LayoutDiffusion)]**  
+<font color=orange>**Authors:**</font>Guangcong Zheng; Xianpan Zhou; Xuewei Li; etc.    
+<font color=orange>**Label:**</font> text-to-image; conditional generation; layout-to-image   
+<font color=orange>**Abastract:**</font> 加入了特殊设计的layout-fusion-module. 需要训练   
 
 
 ## Non-LLM Based

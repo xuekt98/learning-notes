@@ -50,3 +50,10 @@ conda install PkgName=PkgVersion
 ```
 pip index versions PkgName
 ```
+
+# 4. 安装环境
+
+https://blog.csdn.net/weixin_44737691/article/details/129505437
+
+="=The Hong Kong Polytechnic University"
+="=Electrical & Electronic Engineering"
