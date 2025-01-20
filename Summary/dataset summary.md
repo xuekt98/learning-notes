@@ -37,6 +37,8 @@
 **<font color=#CC00CC>applications:</font>** image synthesis
 
 
+
+
 # 2. Video Dataset
 ## 2.1 Video Understanding
 ### 2.1.1 OVO-Bench
@@ -46,3 +48,23 @@
 **<font color=#CC00CC>datset link:</font>** https://github.com/JoeLeelyf/OVO-Bench
 
 **<font color=#CC00CC>applications:</font>** Video Understanding
+
+### 2.1.2 OCORD
+
+**<font color=#CC00CC>paper link:</font>** [OCORD: Open-Campus Object Removal Dataset](https://arxiv.org/pdf/2501.07397)
+
+**<font color=#CC00CC>datset link:</font>** https://huggingface.co/datasets/theSure/OCORD
+
+**<font color=#CC00CC>applications:</font>** Object Removal
+
+
+
+# 3. 3D Dataset
+
+## 3.1 Object-centric
+
+**<font color=#CC00CC>paper link:</font>** [UnCommon Objects in 3D](https://arxiv.org/pdf/2501.07574)
+
+**<font color=#CC00CC>datset link:</font>** https://github.com/facebookresearch/uco3d
+
+**<font color=#CC00CC>applications:</font>** Object-centric
