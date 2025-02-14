@@ -36,6 +36,13 @@
 
 **<font color=#CC00CC>applications:</font>** image synthesis
 
+## 1.3 Image Understanding
+**<font color=#CC00CC>paper link:</font>** [FaceXBench: Evaluating Multimodal LLMs on Face Understanding](https://arxiv.org/pdf/2501.10360)
+
+**<font color=#CC00CC>datset link:</font>** https://kartik-3004.github.io/facexbench/
+
+**<font color=#CC00CC>applications:</font>** image understanding
+
 
 
 

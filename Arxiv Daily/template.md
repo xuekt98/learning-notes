@@ -8,6 +8,8 @@
 
 # 5. Embodied AI
 
-# 6. Dataset
+# 6. Autonomous Driving
 
-# 7. Survey
+# 7. Dataset
+
+# 8. Survey
