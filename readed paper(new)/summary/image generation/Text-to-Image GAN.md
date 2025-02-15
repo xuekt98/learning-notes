@@ -1,4 +1,4 @@
-#### 001. [Generative Adversarial Nets](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
+#### 001 [Generative Adversarial Nets](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 
 **NIPS 2014** 
 
@@ -7,7 +7,7 @@ GAN的最原始的文章
 </br>
 
 
-#### 002. [Generative Adversarial Text to Image Synthesis](https://proceedings.mlr.press/v48/reed16.pdf)
+#### 002 [Generative Adversarial Text to Image Synthesis](https://proceedings.mlr.press/v48/reed16.pdf)
 
 **ICML 2016**
 
@@ -18,7 +18,7 @@ GAN的最原始的文章
 </br>
 
 
-#### 003. [GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2023/papers/Tao_GALIP_Generative_Adversarial_CLIPs_for_Text-to-Image_Synthesis_CVPR_2023_paper.pdf)
+#### 003 [GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2023/papers/Tao_GALIP_Generative_Adversarial_CLIPs_for_Text-to-Image_Synthesis_CVPR_2023_paper.pdf)
 
 **CVPR 2023**
 
@@ -29,7 +29,7 @@ GAN的最原始的文章
 </br>
 
 
-#### 004. [StackGAN: Text to Photo-Realistic Image Synthesis With Stacked Generative Adversarial Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_StackGAN_Text_to_ICCV_2017_paper.pdf)
+#### 004 [StackGAN: Text to Photo-Realistic Image Synthesis With Stacked Generative Adversarial Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_StackGAN_Text_to_ICCV_2017_paper.pdf)
 
 **ICCV 2017**
 
@@ -40,7 +40,7 @@ Two-stage GAN. In the first stage, basic shapes and colors were drawn on the bas
 </br>
 
 
-#### 005. [StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8411144)
+#### 005 [StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8411144)
 
 **TPAMI 2019**
 
@@ -52,7 +52,7 @@ discriminators to improve image generation
 </br>
 
 
-#### 006. [AttnGAN: Fine-Grained Text to Image Generation With Attentional Generative Adversarial Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)
+#### 006 [AttnGAN: Fine-Grained Text to Image Generation With Attentional Generative Adversarial Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)
 
 **CVPR 2018**
 
@@ -63,7 +63,7 @@ discriminators to improve image generation
 </br>
 
 
-#### 007. [Semi-supervised FusedGAN for Conditional Image Generation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Navaneeth_Bodla_Semi-supervised_FusedGAN_for_ECCV_2018_paper.pdf)
+#### 007 [Semi-supervised FusedGAN for Conditional Image Generation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Navaneeth_Bodla_Semi-supervised_FusedGAN_for_ECCV_2018_paper.pdf)
 
 **CVPR 2018**
 
@@ -74,7 +74,7 @@ discriminators to improve image generation
 </br>
 
 
-#### 008. [Photographic text-to-image synthesis with a hierarchically-nested adversarial network](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Photographic_Text-to-Image_Synthesis_CVPR_2018_paper.pdf)
+#### 008 [Photographic text-to-image synthesis with a hierarchically-nested adversarial network](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Photographic_Text-to-Image_Synthesis_CVPR_2018_paper.pdf)
 
 **CVPR 2018**
 
@@ -85,4 +85,239 @@ HDGAN与stackGAN的不同之处在于end-to-end的训练
 </br>
 
 
-#### 009 
+#### 009 [Controllable generative adversarial network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8641270)
+
+**IEEE Access 2019**
+
+![img](res/T2I%20GAN/009-1.png)
+
+ControlGAN plays a three-player game, the Generator, Discriminator and Classifier. It could also control the specitic attributes of the generated content. 
+
+</br>
+
+
+#### 010 [DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-To-Image Synthesis](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_DM-GAN_Dynamic_Memory_Generative_Adversarial_Networks_for_Text-To-Image_Synthesis_CVPR_2019_paper.pdf)
+
+**CVPR 2019**
+
+![img](res/T2I%20GAN/010-1.png)
+
+DM-GAN integrated diffusion model concepts and introduced a dynamic memory module to refine blurred image content, helping to prevent poor results during initial image generation.
+
+</br>
+
+
+#### 011 [Semantic Image Synthesis With Spatially-Adaptive Normalization](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Semantic_Image_Synthesis_With_Spatially-Adaptive_Normalization_CVPR_2019_paper.pdf)
+
+**CVPR 2019**
+
+![img](res/T2I%20GAN/011-1.png)
+
+SPADE/GauGAN proposed a novel spatially-adaptive normalization layer for semantic layout guided image generation. It can generate reaistic images from user-drawn sketches, use semantic layouts to produce photorealistic effects, thereby provide an interactive image generation experience.
+
+</br>
+
+
+#### 012 [Second-Order Attention Network for Single Image Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.pdf)
+
+
+**CVPR 2019**
+
+![img](res/T2I%20GAN/012-1.png)
+
+MirrorGAN employed a bidirectional generation mechanism to map text to images and back, improving semantic coherence in the outputs. This model introduced a new framework that combined global and local attention with semantic preservation, redefining text-to-image generation.
+
+</br>
+
+
+#### 013 [Object-Driven Text-To-Image Synthesis via Adversarial Training](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Object-Driven_Text-To-Image_Synthesis_via_Adversarial_Training_CVPR_2019_paper.pdf)
+
+**CVPR 2019**
+
+![img](res/T2I%20GAN/013-1.png)
+![img](res/T2I%20GAN/013-2.png)
+
+ObjGAN contained two stages. The first stage was using LSTM to generate the layout from text. The second  stage utilized GAN to generate image from the layout. 
+
+</br>
+
+
+#### 014 [Adversarial Learning of Semantic Relevance in Text to Image Synthesis](https://www.eecs.harvard.edu/~htk/publication/2019-aaai-cha-gwon-kung.pdf)
+
+**AAAI 2019**
+
+![img](res/T2I%20GAN/014-1.png)
+![img](res/T2I%20GAN/014-2.png)
+
+Text-SeGAN used semantic discriminator to solve the one-to-many problem of class label. The discriminator didn't predict the image class but the semantical coherence with the image.  
+
+</br>
+
+
+#### 015 [Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Panoptic-DeepLab_A_Simple_Strong_and_Fast_Baseline_for_Bottom-Up_Panoptic_CVPR_2020_paper.pdf)
+
+**CVPR 2020**
+
+![img](res/T2I%20GAN/015-1.png)
+
+CookGAN/Panoptic-DeepLab adopts dual-context and dual-decoder modules for semantic segmentation and instance segmentation predictions.
+
+</br>
+
+
+#### 016 [CPGAN: Content-Parsing Generative Adversarial Networks for Text-to-Image Synthesis](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490477.pdf)
+
+**ECCV 2020**
+
+![img](res/T2I%20GAN/016-1.png)
+
+CPGAN [28] enhanced semantic consistency between text and images by delving deeply into their content.
+
+</br>
+
+
+#### 017 [RiFeGAN: Rich Feature Generation for Text-to-Image Synthesis From Prior Knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_RiFeGAN_Rich_Feature_Generation_for_Text-to-Image_Synthesis_From_Prior_Knowledge_CVPR_2020_paper.pdf)
+
+**CVPR 2020**
+
+![img](res/T2I%20GAN/017-1.png)
+![img](res/T2I%20GAN/017-2.png)
+
+This paper introduce a RiFeGAN. It firstly retrieve compatible captions from prior knowledge using caption matching method. Then the detailed captions are used to generate image with rich feature.  
+
+</br>
+
+
+#### 018 [SegAttnGAN: Text to Image Generation with Segmentation Attention](https://arxiv.org/pdf/2005.12444)
+
+**Arxiv 2020**
+
+![img](res/T2I%20GAN/018-1.png)
+
+SegAttnGAN integrated additional segmentation information with attention mechanisms, further improving the realism of generated images.
+
+</br>
+
+
+#### 019 [Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)
+
+**CVPR 2021**
+
+![img](res/T2I%20GAN/019-1.png)
+
+VQGAN is the most widely used encoder and decoder and latent space for currently prevalent diffusion and VLMs.
+
+</br>
+
+
+#### 020 [Dense Contrastive Learning for Self-Supervised Visual Pre-Training](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dense_Contrastive_Learning_for_Self-Supervised_Visual_Pre-Training_CVPR_2021_paper.pdf)
+
+**CVPR 2021**
+
+![img](res/T2I%20GAN/020-1.png)
+
+DenseCL/XMC-GAN presented a method of dense contrastive learning that implemented self-supervised learning by optimizing a pairwise contrastive similarity loss at the pixel level between two views of input images.
+
+</br>
+
+
+#### 021 [DAE-GAN: Dynamic Aspect-aware GAN for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Ruan_DAE-GAN_Dynamic_Aspect-Aware_GAN_for_Text-to-Image_Synthesis_ICCV_2021_paper.pdf)
+
+**ICCV 2021**
+
+![img](res/T2I%20GAN/021-1.png)
+
+DAE-GAN incorporated the concepts of denoising autoencoders to improve the robustness of generated images. 
+
+</br>
+
+
+#### 022 [Cycle-Consistent Inverse GAN for Text-to-Image Synthesis](https://dl.acm.org/doi/pdf/10.1145/3474085.3475226)
+
+**ACM MM 2021**
+
+![img](res/T2I%20GAN/022-1.png)
+
+CI-GAN is a three-stage model. In the first stage, a StyleGAN model is trained to generate hight quality image. In the second stage, a inversion model is trained to get the latent of the input image. In the third stage, textual input is aligned with the latent of image. The model can be used for text-to-image generation and manipulation.  
+
+</br>
+
+
+#### 023 [R-GAN: Exploring Human-like Way for Reasonable Text-to-Image Synthesis via Generative Adversarial Networks](https://dl.acm.org/doi/pdf/10.1145/3474085.3475363)
+
+**ACM MM 2021**
+
+![img](res/T2I%20GAN/023-1.png)
+
+R-GAN generated coherent images in a human-like manner, demonstrating naturalness and consistency in its generation process. Four stages of generation, text -> layout -> corse-to-fine shape -> image
+
+</br>
+
+
+#### 024 [DF-GAN: A Simple and Effective Baseline for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_DF-GAN_A_Simple_and_Effective_Baseline_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf)
+
+**CVPR 2022**
+
+![img](res/T2I%20GAN/024-1.png)
+
+DF-GAN directly generated high-resolution images in the first stage and introduced a novel target-aware discriminator in the second stage to improve the consistency between text and image
+
+</br>
+
+
+#### 025 [Towards Language-Free Training for Text-to-Image Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Towards_Language-Free_Training_for_Text-to-Image_Generation_CVPR_2022_paper.pdf)
+
+**CVPR 2022**
+
+![img](res/T2I%20GAN/025-1.png)
+
+LAFITE used CLIP to guide the generation process, enhancing the quality and interpretability of the generated images.
+
+</br>
+
+
+#### 026 [Text to Image Generation With Semantic-Spatial Aware GAN](https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Text_to_Image_Generation_With_Semantic-Spatial_Aware_GAN_CVPR_2022_paper.pdf)
+
+**CVPR 2022**
+
+![img](res/T2I%20GAN/026-1.png)
+
+SAGAM introduced Semantic-Spatial Aware block that learns semantic-adaptive transformation conditioned on text to effectively fuse text features and image features, and learns a semantic mask in a weakly-supervised way that depends on the current text-image fusion process in order to guide the transformation spatially.  
+
+</br>
+
+
+#### 027 [Vision-Language Matching for Text-to-Image Synthesis via Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9930667)
+
+**IEEE TMM**
+
+![img](res/T2I%20GAN/027-1.png)
+
+VLMGAN combined visual and language models to improve semantic understanding capabilities in image generation.  
+
+</br>
+
+
+#### 028 [VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance](https://arxiv.org/pdf/2204.08583)
+
+**ECCV 2022**
+
+![img](res/T2I%20GAN/028-1.png)
+
+VQGAN-CLIP is a training-free method for text-to-image generation and manipulation. It used CLIP similarity to optimize the latent vector of VQGAN. But the manipulation results suffer from information leakage.  
+
+</br>
+
+
+#### 029 [TISE: Bag of Metrics for Text-to-Image Synthesis Evaluation](https://arxiv.org/pdf/2112.01398)
+
+**ECCV 2022**
+
+![img](res/T2I%20GAN/029-1.png)
+
+This paper proposed several novel image generation metrics and AttnGAN++  
+
+</br>
+
+
+
