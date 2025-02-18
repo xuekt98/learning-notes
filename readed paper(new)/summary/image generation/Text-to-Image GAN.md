@@ -320,4 +320,94 @@ This paper proposed several novel image generation metrics and AttnGAN++
 </br>
 
 
+#### 030 [Recurrent Affine Transformation for Text-to-Image Synthesis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100901)
+
+**IEEE TMM 2023**
+
+![img](res/T2I%20GAN/030-1.png)
+
+RAT-GAN adopted recursive affine transformations to incorporate conditional information during generation. A novel kind of information injecting mechanism.  
+
+</br>
+
+
+#### 031 [GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2023/papers/Tao_GALIP_Generative_Adversarial_CLIPs_for_Text-to-Image_Synthesis_CVPR_2023_paper.pdf)
+
+**CVPR 2023**
+
+![img](res/T2I%20GAN/031-1.png)
+
+GALIP legerages CLIP model both in the generator and discriminator.
+
+</br>
+
+
+#### 032 [Scaling Up GANs for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2023/papers/Kang_Scaling_Up_GANs_for_Text-to-Image_Synthesis_CVPR_2023_paper.pdf)
+
+**CVPR 2023**
+
+![img](res/T2I%20GAN/032-1.png)
+
+This paper proposed GigaGAN to increase the text-to-image generation capacity of GAN models based the investigation that naively increasing the capacity of the StyleGAN architecture quickly becomes unstable. GigaGAN achieved high-quality image generation through large-scale data training, surpassing the state-of-the-art performance of diffusion model.
+
+</br>
+
+
+#### 033 [StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis](https://proceedings.mlr.press/v202/sauer23a/sauer23a.pdf)
+
+**ICML PMLR 2023**
+
+![img](res/T2I%20GAN/033-1.png)
+
+StyleGAN-T utilized the structure of StyleGAN for text-to-image generation. It could also achieve style transfer with text condition.
+
+</br>
+
+
+#### 034 [Text-to-Image Synthesis Based on Object-Guided Joint-Decoding Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Text-to-Image_Synthesis_Based_on_Object-Guided_Joint-Decoding_Transformer_CVPR_2022_paper.pdf)
+
+**CVPR 2022**
+
+![img](res/T2I%20GAN/034-1.png)
+
+Layout-VQGAN used layout information to generate complex scenes, enchancing the structural representation of the generated images.
+
+</br>
+
+
+#### 035 [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://dl.acm.org/doi/pdf/10.1145/3588432.3591500)
+
+**ACM SIGGRAPH 2023**
+
+![img](res/T2I%20GAN/035-1.png)
+
+DragGAN introduced a point-based interactive image editing method, allowing pixel-level precision in the editing results.
+
+</br>
+
+
+#### 036 [UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_UFOGen_You_Forward_Once_Large_Scale_Text-to-Image_Generation_via_Diffusion_CVPR_2024_paper.pdf)
+
+**CVPR 2024**
+
+![img](res/T2I%20GAN/036-1.png)
+
+UFOGen aims at ultra-fast one-step T2I using a hybrid approach that combines diffusion models with GAN objectives.
+
+</br>
+
+
+#### 037 [Adversarial Text to Continuous Image Generation](https://openaccess.thecvf.com/content/CVPR2024/papers/Haydarov_Adversarial_Text_to_Continuous_Image_Generation_CVPR_2024_paper.pdf)
+
+**CVPR 2024**
+
+![img](res/T2I%20GAN/037-1.png)
+
+HyperCGAN addresses the T2I task from a different perspective, representing two-dimensional images as implicit neural representations (INRs) and controlling the INR-GAN generation process using weight modulation operators based on wordlevel attention, through the use of a supernetwork.
+
+</br>
+
+
+
+
 
