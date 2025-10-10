@@ -1,3 +1,5 @@
+# Text-to-Image Diffusion
+
 #### 001 [Deep unsupervised learning using nonequilibrium thermodynamics](https://proceedings.mlr.press/v37/sohl-dickstein15.pdf)
 
 **ICML 2015**

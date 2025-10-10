@@ -1,3 +1,5 @@
+# Text-to-Image Diffusion
+
 #### 001 [Generative Pretraining From Pixels](https://proceedings.mlr.press/v119/chen20s/chen20s.pdf)
 
 **ICML 2020**
