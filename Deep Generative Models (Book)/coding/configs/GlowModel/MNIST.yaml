@@ -1,0 +1,63 @@
+runner: "DiscriminativeModelRunner" # runner to be used
+training: # training options
+  n_epochs: 200              # maximum training epochs (integer > 0)
+  n_steps: 200000            # maximum training steps (integer > 0)
+  save_interval_epoch: 5     # save checkpoint epoch interval (integer > 0)
+  # save_interval_step: 1      # save checkpoint step interval (integer > 0)
+  val_interval_epoch: 5      # validation epoch interval (integer > 0)
+  val_interval_step: 1000     # validation step interval (integer > 0)
+  sample_interval: 2       # sample interval epoch length (number in (0, +inf))
+  accumulate_grad_batches: 1 # accumulate grad batches (integer > 0)
+  max_grad_clip: 5
+  max_grad_norm: 100
+
+testing: # testing options
+  sample_num: 2000 # sample image number (integer > 0)
+
+data: # dataset config
+  dataset_type: 'official' # options: {'official', 'custom_aligned', 'custom_single', 'custom_inpainting'} (string)
+  dataset_config:
+    dataset_name: 'MNIST' # dataset name, part of result path (string)
+    dataset_path: '/media/x/disk/datasets/MNIST' # dataset path (string)
+    image_size: 28     # image size (integer > 0)
+    channels: 1        # image channels (integer > 0)
+    to_normal: True    # normalize to [-1, 1] (bool)
+    flip: True         # random flip image to augment dataset (bool)
+    resize: True       # resize image to train and test (bool)
+    random_crop: False # random crop image to augment dataset (bool)
+    crop_p1: 0.5       # random crop probability 1, only used when ramdom crop is True (float in [0, 1])
+    crop_p2: 1.        # random crop probability 2, only used when ramdom crop is True (float in [crop_p1, 1])
+  num_workers: 8       # dataloader worker numbers (integer > 0)
+  train_batch_size: 128  # train batch size (integer > 0)
+  val_batch_size: 4    # validation batch size (integer > 0)
+  test_batch_size: 4   # test batch size (integer > 0)
+
+model: # model config
+  model_name: 'DiscriminativeModel' # model name, part of result path (string)
+
+  params: # model_params
+    image_shape: [28, 28, 1]
+    hidden_channels: 512
+    K: 32
+    L: 3
+    actnorm_scale: 1.0
+    flow_permutation: "invconv"
+    flow_coupling: "affine"
+    LU_decomposed: False
+    learn_top: False
+    y_condition: False
+    y_classes: 40
+
+  optimizer:
+    name: "adam"
+    args:
+      lr: 1.e-3
+      betas: [ 0.9, 0.9999 ]
+      eps: 1.e-8
+
+  scheduler:
+    name: "noam_learning_rate_decay"
+    args:
+      warmup_steps: 5000
+      minimum: 1.e-4
+

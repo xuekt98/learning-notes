@@ -1,0 +1,1 @@
+python3 main.py --config configs/DiscriminativeModel/MNIST.yaml --train --gpu_ids 0 --sample_at_start --save_top

@@ -1,0 +1,43 @@
+runner: "runner" # runner to be used
+training: # training options
+  n_epochs: 200              # maximum training epochs (integer > 0)
+  n_steps: 500000            # maximum training steps (integer > 0)
+  save_interval_epoch: 5     # save checkpoint epoch interval (integer > 0)
+  save_interval_step: 1      # save checkpoint step interval (integer > 0)
+  val_interval_epoch: 5      # validation epoch interval (integer > 0)
+  val_interval_step: 200     # validation step interval (integer > 0)
+  sample_interval: 0.5       # sample interval epoch length (number in (0, +inf))
+  accumulate_grad_batches: 1 # accumulate grad batches (integer > 0)
+
+testing: # testing options
+  sample_num: 2000 # sample image number (integer > 0)
+
+data: # dataset config
+  dataset_name: 'dataset_name' # dataset name, part of result path (string)
+  dataset_type: 'dataset_type' # options: {'custom_aligned', 'custom_single', 'custom_inpainting'} (string)
+  dataset_config:
+    dataset_path: 'dataset_path' # dataset path (string)
+    image_size: 64     # image size (integer > 0)
+    channels: 3        # image channels (integer > 0)
+    to_normal: True    # normalize to [-1, 1] (bool)
+    flip: True         # random flip image to augment dataset (bool)
+    resize: True       # resize image to train and test (bool)
+    random_crop: False # random crop image to augment dataset (bool)
+    crop_p1: 0.5       # random crop probability 1, only used when ramdom crop is True (float in [0, 1])
+    crop_p2: 1.        # random crop probability 2, only used when ramdom crop is True (float in [crop_p1, 1])
+  num_workers: 8       # dataloader worker numbers (integer > 0)
+  train_batch_size: 8  # train batch size (integer > 0)
+  val_batch_size: 8    # validation batch size (integer > 0)
+  test_batch_size: 8   # test batch size (integer > 0)
+
+model: # model config
+  model_name: 'model_name' # model name, part of result path (string)
+
+  params: # model_params
+    # specify your own model parameters
+  optimizer:
+    # specify your own optimizer parameters
+  scheduler:
+    # specify your own loss scheduler parameters
+
+
