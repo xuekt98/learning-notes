@@ -1,0 +1,3 @@
+# Codex scratch directory
+codex temp/*
+!codex temp/.gitkeep
